@@ -1,0 +1,22 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "title": "GoBarber - Haircuts & Shaves",
+      "description":
+        "Um aplicativo para agendamento de cortes de cabelo e barba, desenvolvido utilizando ReactJS, ReactNative, MongoDB, typeorm, ...",
+      "thumbnail": "./GoBarber.svg",
+      "link": "https://wizardly-jones-5fba15.netlify.app/",
+      "published_at": "2020-12-01 00:00:01"
+    },
+    {
+      "id": 2,
+      "title": "PodCastr - O melhor para ouvir, sempre",
+      "description":
+        "Um aplicativo podcast desenvolvido utilizando NextJS, Sass, ...",
+      "thumbnail": "./Podcastr.svg",
+      "link": "https://podcastr.devtrails.com.br/",
+      "published_at": "2021-04-29 00:00:01"
+    }
+  ]
+}
